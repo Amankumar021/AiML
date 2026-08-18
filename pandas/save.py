@@ -12,5 +12,5 @@ print(df)
 
 # df.to_csv("output.csv", index=False) #to save csv file
 
-df.to_excel("output.xlsx")
+# df.to_excel("output.xlsx")
 df.to_json("output.json", index = False)
