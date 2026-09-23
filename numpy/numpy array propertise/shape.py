@@ -6,3 +6,4 @@ arr_2d = np.array([[1,2,3],
 
 print(arr_2d)
 print(arr_2d.shape) # used in exel table to check row nad col 
+ 
